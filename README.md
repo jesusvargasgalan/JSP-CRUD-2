@@ -13,7 +13,7 @@ para que la he utilizado
 <br/>
 3 Si el login falla nos llevará a esta página
 <br/>
-<img src=./capturas3/captura3.JPG width=600px>
+<img src=./capturas2/captura3.JPG width=600px>
 <br/>
 4 Si el login acierta entraremos en la que antes era la página principal
 <br/>
