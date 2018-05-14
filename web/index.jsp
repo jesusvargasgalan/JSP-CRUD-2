@@ -31,7 +31,7 @@
         <div class="container">
             <br><br>			
               <div class=" card bg-info text-white text-center">
-                <div class="card-header text-center"><h2>Login</h2></div>
+                <div class="card-header text-center"><h2>Bienvenido a tú Biblioteca de Videojuegos</h2></div>
                 <table class="table table-striped">
                     <form action="login.jsp" method="get" accept-charset="utf-8" class="form-signin">
                         
